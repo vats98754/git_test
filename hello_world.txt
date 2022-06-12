@@ -1,0 +1,2 @@
+1. Social media that only allows you to post once a day. For memories.
+2. QOI with CPP src, Django (Python) Backend, and HTML basic frontend.
